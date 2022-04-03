@@ -1,5 +1,6 @@
 Django~=3.2.10
 mysqlclient==2.0.3
 djangorestframework==3.11.1
-django-filter==21.1
+djangofilter==21.1
 markdown==3.3.6
+django-cors-headers==3.11.0
